@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/topoofromsweatie/static/css/main.073c9b0a.css",
-    "main.js": "/topoofromsweatie/static/js/main.87d05029.js",
+    "main.js": "/topoofromsweatie/static/js/main.e56abef4.js",
     "static/js/787.b45bca97.chunk.js": "/topoofromsweatie/static/js/787.b45bca97.chunk.js",
     "index.html": "/topoofromsweatie/index.html",
     "main.073c9b0a.css.map": "/topoofromsweatie/static/css/main.073c9b0a.css.map",
-    "main.87d05029.js.map": "/topoofromsweatie/static/js/main.87d05029.js.map",
+    "main.e56abef4.js.map": "/topoofromsweatie/static/js/main.e56abef4.js.map",
     "787.b45bca97.chunk.js.map": "/topoofromsweatie/static/js/787.b45bca97.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.87d05029.js"
+    "static/js/main.e56abef4.js"
   ]
 }
